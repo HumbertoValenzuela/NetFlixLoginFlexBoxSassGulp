@@ -1,0 +1,24 @@
+{
+  "name": "netflix_inicio",
+  "version": "1.0.0",
+  "description": "Proyecto Netflix login con flexbox, gulpy sass",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HumbertoValenzuela/NetFlixLoginFlexBoxSassGulp.git"
+  },
+  "author": "Humberto Valenzuela G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HumbertoValenzuela/NetFlixLoginFlexBoxSassGulp/issues"
+  },
+  "homepage": "https://github.com/HumbertoValenzuela/NetFlixLoginFlexBoxSassGulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.1.0"
+  }
+}
